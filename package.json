@@ -1,0 +1,5 @@
+{
+  "name": "prodigy_fs_02",
+  "version": "1.0.0",
+  "description": "A web app for managing employees, job listings, and complaints, with user profiles and authentication, built with React and Node.js."
+}
