@@ -53,7 +53,7 @@ const DashboardPage = () => {
   return (
     <div className="p-6 bg-gray-100 min-h-screen">
       <h1 className="text-3xl font-bold text-center text-blue-600 mb-8">
-        Employee Dashboard
+        Manager Dashboard
       </h1>
       <div className="overflow-x-auto">
         <table className="min-w-full bg-white rounded-lg shadow-lg overflow-hidden">
